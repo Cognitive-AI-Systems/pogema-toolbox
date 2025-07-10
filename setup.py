@@ -50,7 +50,7 @@ setup(
         "numpy>=1.21",
         "pandas<=2.2.1",
         "PyYAML<=6.0.1",
-        "git+https://github.com/Cognitive-AI-Systems/pogema.git@632437df72a51af14feb63711ce52523e561f6c3#egg=pogema"
+        "pogema>=1.3.1"
     ],
     extras_require={
 
