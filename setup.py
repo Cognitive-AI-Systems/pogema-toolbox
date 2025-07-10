@@ -46,11 +46,11 @@ setup(
         "tabulate>=0.8.7,<=0.8.10",
         "importlib-metadata==4.13.0",
         "dask[distributed]",
-        "pydantic>=1.8.2,<=1.9.1",
+        "pydantic>2.0",
         "numpy>=1.21",
         "pandas<=2.2.1",
         "PyYAML<=6.0.1",
-        "pogema>=1.3.0"
+        "git+https://github.com/Cognitive-AI-Systems/pogema.git@632437df72a51af14feb63711ce52523e561f6c3#egg=pogema"
     ],
     extras_require={
 
