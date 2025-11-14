@@ -48,7 +48,7 @@ setup(
         "pydantic>=1.8.2,<=1.9.1",
         "pandas<=2.2.1",
         "PyYAML<=6.0.1",
-        "git+https://github.com/Cognitive-AI-Systems/pogema.git"
+        "pogema @ git+https://github.com/Cognitive-AI-Systems/pogema.git"
     ],
     extras_require={
 
